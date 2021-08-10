@@ -4,6 +4,16 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
 /*======== HEADER =======*/
 
 #header{
@@ -38,7 +48,7 @@ body{
 #top-tabs a{
     float: left;
     display: block;
-    width: 33%;
+    width: 25%;
     height: 35px;
     font-weight: 700;
     color: white;
@@ -182,7 +192,6 @@ textarea{
     margin:12px 0;
     padding:8px 0;
 }
-
 
 
 
